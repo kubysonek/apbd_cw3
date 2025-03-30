@@ -103,3 +103,4 @@ C:\Users\jakub.tanski\Desktop\xd\Tutorial4\Tutorial4Tests\obj\Debug\net8.0\refin
 C:\Users\jakub.tanski\Desktop\xd\Tutorial4\Tutorial4Tests\obj\Debug\net8.0\Tutorial4Tests.pdb
 C:\Users\jakub.tanski\Desktop\xd\Tutorial4\Tutorial4Tests\obj\Debug\net8.0\Tutorial4Tests.genruntimeconfig.cache
 C:\Users\jakub.tanski\Desktop\xd\Tutorial4\Tutorial4Tests\obj\Debug\net8.0\ref\Tutorial4Tests.dll
+C:\Users\jakub.tanski\Desktop\xd\Tutorial4\Tutorial4Tests\obj\Debug\net8.0\Tutorial4Tests.sourcelink.json
